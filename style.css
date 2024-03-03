@@ -3,5 +3,15 @@
     padding: 0;
 }
 .menu-bar{
-    min-height: ;
+    min-height:8% ;
+    background: #FF9800;
+}
+.menu-bar img{
+    width: 150px;
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
 }
