@@ -13,5 +13,21 @@
     color: #fff;
 }
 .nav-link:hover{
+    color: #000;
+}
+.active{
+    color: #000 !important;
+}
+.navbar-toggler .fa{
     color: #fff;
+}
+.navbar-toggler{
+    outline: none !important ;
+}
+.banner{
+    min-height: 77%;
+    color: #555;
+}
+.banner img{
+    width: 100%;
 }
